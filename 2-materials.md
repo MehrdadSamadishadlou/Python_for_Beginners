@@ -1,7 +1,7 @@
 ---
 title: Course Materials
 layout: template
-filename: materials
+filename: 2-materials
 --- 
 
 # Our Story
