@@ -17,15 +17,15 @@ On the main page, you will find general announcements and updates about the cour
 </p>
 
 <p style='text-align: justify;'>
-The course material page is where you will find all the slides, links, code examples, and any other materials that may be helpful for your learning. I will update this page regularly throughout the course, so be sure to check back often for new resources.
+<a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/materials">The course material page</a> is where you will find all the slides, links, code examples, and any other materials that may be helpful for your learning. I will update this page regularly throughout the course, so be sure to check back often for new resources.
 </p>
 
 <p style='text-align: justify;'>
-The exercises page is where you will find practice problems and coding challenges to help you reinforce your learning and improve your skills. I encourage you to work through these exercises on your own and also to collaborate with your fellow students to solve more challenging problems.
+<a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/nexercises">The exercises page</a> is where you will find practice problems and coding challenges to help you reinforce your learning and improve your skills. I encourage you to work through these exercises on your own and also to collaborate with your fellow students to solve more challenging problems.
 </p>
 
 <p style='text-align: justify;'>
-Finally, on the project page, you will find information about the course projects. I will provide you with project descriptions, requirements, and guidelines to help you complete them successfully. These projects will give you the opportunity to apply your knowledge and skills in a real-world setting and showcase your work to your fellow students.
+Finally, on <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/projects">the project page</a> the project page, you will find information about the course projects. I will provide you with project descriptions, requirements, and guidelines to help you complete them successfully. These projects will give you the opportunity to apply your knowledge and skills in a real-world setting and showcase your work to your fellow students.
 </p>
 
 <p style='text-align: justify;'>
