@@ -1,7 +1,7 @@
 ---
 title: Main Page
 layout: template
-filename: 1-index
+filename: index
 --- 
 
 ### Created by Mehrdad Samadishadlou
