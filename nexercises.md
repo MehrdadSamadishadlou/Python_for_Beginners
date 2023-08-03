@@ -1,6 +1,6 @@
 ---
 title: Exercises
 layout: template
-filename: kexercises
+filename: nexercises
 --- 
 
