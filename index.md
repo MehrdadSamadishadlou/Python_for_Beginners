@@ -17,7 +17,7 @@ On the main page, you will find general announcements and updates about the cour
 </p>
 
 <p style='text-align: justify;'>
-The course material page is where you will find all the slides, code examples, and any other materials that may be helpful for your learning. I will update this page regularly throughout the course, so be sure to check back often for new resources.
+The course material page is where you will find all the slides, links, code examples, and any other materials that may be helpful for your learning. I will update this page regularly throughout the course, so be sure to check back often for new resources.
 </p>
 
 <p style='text-align: justify;'>
