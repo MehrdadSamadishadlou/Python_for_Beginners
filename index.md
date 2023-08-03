@@ -32,7 +32,7 @@ Finally, on the project page, you will find information about the course project
 So sit back, relax, and get ready to dive into the exciting world of Python programming. By the end of this course, you'll have the skills and confidence to tackle a wide range of programming challenges and build your own Python projects from scratch. Let's get started!
 </p>
 
-## First thing first: Picking a time
+## First things first: Picking a time
 
 To pick a suitable time, please participate in the following poll.
 
