@@ -9,7 +9,7 @@ filename: index
 # About this webpage
 
 <p style='text-align: justify;'> 
-Welcome to the **Python for Beginners!** This webpage is your go-to resource for all materials, exercises, and projects related to the course. I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way.
+Welcome to the <b>Python for Beginners!</b> This webpage is your go-to resource for all materials, exercises, and projects related to the course. I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way.
 </p>
 
 <p style='text-align: justify;'>
