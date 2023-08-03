@@ -1,7 +1,7 @@
 ---
-title: Our Story
+title: Course Materials
 layout: template
-filename: story
+filename: materials
 --- 
 
 # Our Story
