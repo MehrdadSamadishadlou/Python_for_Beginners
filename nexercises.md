@@ -36,7 +36,7 @@ Hello Mehrdad
 
 ```
 Work Hours: 32
-Enter Rate: 100000
+Hourly payment: 100000
 Pay: 3200000
 ```
 5. If we are sure that the variable 'num' is a two-digit number, which line of code would cause the output to be the reverse of the value of 'num'? (For example, if 'var' is equal to 23, the output would be 32.)
