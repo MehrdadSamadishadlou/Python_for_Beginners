@@ -13,7 +13,7 @@ If you haven't installed Python on your computer yet, you can download it for fr
 <a href="https://www.python.org/downloads/" target="_blank"><button>Click Here</button></a>
 
 
-## Online programming
+## Online Python programming
 
 To fully immerse yourself in learning Python, it is highly recommended that you install Python on your computer. However, if you do not have access to a computer with Python installed, you can still explore the language using online platforms such as Google Colab, which can execute Python code.
 
