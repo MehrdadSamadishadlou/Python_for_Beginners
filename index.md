@@ -6,14 +6,16 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-# About this webpage
+# About this Course
 
 <p style='text-align: justify;'> 
-Welcome to the <b>Python for Beginners!</b> This webpage is your go-to resource for all materials, exercises, and projects related to the course. I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way.
+Welcome to the <b>Python for Beginners!</b>  I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way. If you have any questions or need further assistance, please feel free to contact me via email at mehrdad.samadi90@gmail.com. Additionally, for exercises and projects, please send your answer codes to the same email address.
 </p>
 
+# About this Webpage
+
 <p style='text-align: justify;'>
-On the main page, you will find general announcements and updates about the course, including important dates and any changes to the schedule.
+This webpage is your go-to resource for all materials, exercises, and projects related to the course. On the main page, you will find general announcements and updates about the course, including important dates and any changes to the schedule.
 </p>
 
 <p style='text-align: justify;'>
