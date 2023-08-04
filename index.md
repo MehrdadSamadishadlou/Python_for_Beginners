@@ -10,12 +10,13 @@ filename: index
 
 <p style='text-align: justify;'> 
 Welcome to the <b>Python for Beginners!</b>  I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way. In addition, I have established certain guidelines for my class, which include the following requirements:
+</p>
 
   - Bringing a laptop or tablet to each session.
   - Ensuring a reliable internet connection throughout the class.
   - Achieving a minimum score of 70% in order to receive certification.
   
-  
+<p style='text-align: justify;'> 
 If you have any questions or need further assistance, please feel free to contact me via email at <b>mehrdad.samadi90@gmail.com</b>. Additionally, for exercises and projects, please send your answers to the same email address.
 </p>
 
