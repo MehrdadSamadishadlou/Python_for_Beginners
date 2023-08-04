@@ -25,9 +25,17 @@ x * 3
 print( x )
 ```
 
-3. write a program that utilizes the input function to ask the user for their name, and then delivers a personalized welcome message as follows.
+3. Write a program that utilizes the input function to ask the user for their name, and then delivers a personalized welcome message as follows.
 
 ```
 Enter your name: Mehrdad
 Hello Mehrdad
+```
+
+4. Write a program that uses the input function to ask the user for the number of hours he/she worked and the hourly payment, and then calculates the gross pay based on this information.
+
+```
+Work Hours: 32
+Enter Rate: 100000
+Pay: 3200000
 ```
