@@ -8,6 +8,12 @@ filename: materials
 
 ## An Introduction to Python Programming
 
+You can download the introductory PDF file by following the link provided below.
+
+
+<a href="https://drive.google.com/file/d/1CccpPF6sBml0l_dvmNUv2NnlsVDffva-/view?usp=sharing" target="_blank"><button>Presentation</button></a>
+
+
 ## Python Environment
 
 ### Installing Python
