@@ -42,6 +42,10 @@ To fully immerse yourself in learning Python, it is highly recommended that you 
 
 ## Python Reserved Words
 
+<p style='text-align: justify;'>
+Python reserved keywords are words that have special meanings and purposes in the Python programming language. These keywords cannot be used as variable names, function names, or any other identifiers because they are already reserved for specific programming constructs. Here is the full list of Python reserved keywords:
+</p>
+
 ```
 and     continue  finally  is        raise
 as      def       for      lambda    return
@@ -51,6 +55,8 @@ await   else      if       not       while
 break   except    import   or        with
 class   False     in       pass      yield
 ```
-
+<p style='text-align: justify;'>
+It can be useful to keep this list of Python reserved keywords handy. If you encounter an error message from the interpreter related to a variable name, you can quickly check if the variable name is a reserved keyword by referring to this list.
+</p>
 
 
