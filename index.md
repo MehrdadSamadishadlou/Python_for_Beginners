@@ -9,7 +9,7 @@ filename: index
 # About this Course
 
 <p style='text-align: justify;'> 
-Welcome to the <b>Python for Beginners!</b>  I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way. If you have any questions or need further assistance, please feel free to contact me via email at mehrdad.samadi90@gmail.com. Additionally, for exercises and projects, please send your answer codes to the same email address.
+Welcome to the <b>Python for Beginners!</b>  I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way. If you have any questions or need further assistance, please feel free to contact me via email at <a href="mehrdad.samadi90@gmail.com">mehrdad.samadi90@gmail.com</a>. Additionally, for exercises and projects, please send your answer codes to the same email address.
 </p>
 
 # About this Webpage
