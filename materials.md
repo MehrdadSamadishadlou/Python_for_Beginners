@@ -15,7 +15,7 @@ If you haven't installed Python on your computer yet, you can download it for fr
 
 ## Online programming
 
-If you dont have access to a computer with python installed on it, you can use online sites that can run python codes like google colab. But the recommended setting is to have installed python on your computer.
+To fully immerse yourself in learning Python, it is highly recommended that you install Python on your computer. However, if you do not have access to a computer with Python installed, you can still explore the language using online platforms such as Google Colab, which can execute Python code.
 
 <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><button>Colab</button></a>
 
