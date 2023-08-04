@@ -5,6 +5,7 @@ filename: nexercises
 --- 
 
 # 1. First Session
+
 1. What is the output of each line of code? 
 
       ```
