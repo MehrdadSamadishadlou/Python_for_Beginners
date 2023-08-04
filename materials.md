@@ -40,6 +40,17 @@ To fully immerse yourself in learning Python, it is highly recommended that you 
 <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"><button>Colab</button></a>    <a href="https://www.online-python.com/" target="_blank"><button>online-python</button></a>
 
 
+## Python Reserved Words
+
+```
+and     continue  finally  is        raise
+as      def       for      lambda    return
+assert  del       from     None      True
+async   elif      global   nonlocal  try
+await   else      if       not       while
+break   except    import   or        with
+class   False     in       pass      yield
+```
 
 
 
