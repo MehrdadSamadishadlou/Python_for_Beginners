@@ -6,7 +6,7 @@ filename: materials
 
 # 1. First Session
 
-# An Introduction to Python Programming
+## An Introduction to Python Programming
 
 ## Python Environment
 
