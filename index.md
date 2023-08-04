@@ -36,4 +36,4 @@ So sit back, relax, and get ready to dive into the exciting world of Python prog
 
 To pick a suitable time, please participate in the following poll.
 
-<a href="https://www.when2meet.com/?20747825-MFjPd" target="_blank"><button>Click Here</button></a>
+<a href="https://www.when2meet.com/?20747825-MFjPd" target="_blank"><button>Poll</button></a>
