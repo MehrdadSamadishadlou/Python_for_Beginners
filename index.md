@@ -12,7 +12,7 @@ filename: index
 Welcome to the <b>Python for Beginners!</b>  I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way. In addition, I have established certain guidelines for my class, which include the following requirements:
 
   - Bringing a laptop or tablet to each session.
-  - Ensuring a reliable internet connection throughout the duration of the class.
+  - Ensuring a reliable internet connection throughout the class.
   - Achieving a minimum score of 70% in order to receive certification
   
   
