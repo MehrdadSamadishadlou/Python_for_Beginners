@@ -7,8 +7,6 @@ filename: index
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
 
-**Note**
-This is a note
 
 # Workshop Schedule
 
