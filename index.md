@@ -6,6 +6,14 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
+# Classes Schedule
+
+According to the class poll, the following class times have been chosen:
+
+**Saturdays, 10-12**
+
+**Tuesday, 10-12**
+
 # About this Course
 
 <p style='text-align: justify;'> 
