@@ -15,7 +15,7 @@ filename: index
 > 
 > **Saturdays, 10-12**
 > 
-> **Tuesday, 10-12**
+> **Tuesdays, 10-12**
 
 
 # About this Course
