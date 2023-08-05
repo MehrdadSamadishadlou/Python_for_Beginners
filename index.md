@@ -6,6 +6,15 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
+[!NOTE]  
+Highlights information that users should take into account, even when skimming.
+
+[!IMPORTANT]  
+Crucial information necessary for users to succeed.
+
+[!WARNING]  
+Critical content demanding immediate user attention due to potential risks.
+
 # Workshop Schedule
 
 According to the class poll, the following class times have been chosen:
