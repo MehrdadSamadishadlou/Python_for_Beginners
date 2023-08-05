@@ -6,10 +6,9 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-> **Important**  
+> [!IMPORTANT]
+> 
 > Please install VScode for the next session. You can find a link to its download page on <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/materials">The course material page</a>.
-
-<p class="important">This is important information.</p>
 
 > [!NOTE]  
 > According to the class poll, the following class times have been chosen:
