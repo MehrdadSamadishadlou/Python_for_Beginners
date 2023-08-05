@@ -6,7 +6,7 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-# Classes Schedule
+# Workshop Schedule
 
 According to the class poll, the following class times have been chosen:
 
