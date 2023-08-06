@@ -62,7 +62,10 @@ It can be useful to keep this list of Python reserved keywords handy. If you enc
 
 ## Session Codes
 
-You can downlade the code I have written during this session as a pdf file from the following link.
+You can download the code I have written during this session as a pdf file from the following link. Also, Mr. Ahmadian wrote an incredibly informative note during the class and graciously granted me permission to share his valuable notes with you in this context.
 
 
-<a href="https://drive.google.com/file/d/1qKnRFhXfczWBRTH1ikJcpXQz1BQNdmYR/view?usp=sharing" target="_blank"><button>First Session Codes</button></a>
+<a href="https://drive.google.com/file/d/1qKnRFhXfczWBRTH1ikJcpXQz1BQNdmYR/view?usp=sharing" target="_blank"><button>First Session Codes</button></a>   <a href="https://drive.google.com/file/d/1Dc44QV9QSC7XrqOawGmSRsVa0oTXQaDo/view?usp=sharing
+" target="_blank"><button>Mr. Ahmadian's notes</button></a>
+
+
