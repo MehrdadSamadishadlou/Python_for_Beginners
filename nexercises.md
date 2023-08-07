@@ -58,17 +58,12 @@ filename: nexercises
 
 3. Write a program that prompts the user to enter their age and prints their corresponding age group.
 
-      If the age is between zero (exclusive) and six (inclusive), the program should output "preschooler".
-      
-      If the age is between six (inclusive) and ten (exclusive), the program should output "child".
-      
-      If the age is between ten (inclusive) and fourteen (exclusive), the program should output "adolescent".
-      
-      If the age is between fourteen (inclusive) and twenty-four (exclusive), the program should output "youth".
-      
-      If the age is between twenty-four (inclusive) and forty (exclusive), the program should output "adult".
-      
-      If the age is forty or above, the program should output "middle-aged".
+      - If the age is between zero (exclusive) and six (inclusive), the program should output "preschooler".
+      - If the age is between six (inclusive) and ten (exclusive), the program should output "child".
+      - If the age is between ten (inclusive) and fourteen (exclusive), the program should output "adolescent".
+      - If the age is between fourteen (inclusive) and twenty-four (exclusive), the program should output "youth".
+      - If the age is between twenty-four (inclusive) and forty (exclusive), the program should output "adult".
+      - If the age is forty or above, the program should output "middle-aged".
 
 4. Write a program that prompts the user to enter three numbers: A, B, and C. If A is even or both B and C are even, the program should print "good". Otherwise, it should print "bad". Try to achieve this using the OR and AND operators.
 
