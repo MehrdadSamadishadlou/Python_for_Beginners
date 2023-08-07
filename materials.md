@@ -5,7 +5,7 @@ filename: materials
 --- 
 
 <details>
-  <summary>Click me</summary>
+  <summary>Click me</summary>  
   
   # 1. First Session
   
@@ -15,7 +15,8 @@ filename: materials
   
   <a href="https://drive.google.com/file/d/1CccpPF6sBml0l_dvmNUv2NnlsVDffva-/view?usp=sharing" target="_blank"><button>Presentation</button></a>
 
-</details>
+
+</details>  
 
 ## Python Environment
 
