@@ -4,14 +4,16 @@ layout: template
 filename: projects
 --- 
 
-<details><summary>CLICK ME</summary>
-<p>
-
-# yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
+<div markdown="1">
+  <details><summary>CLICK ME</summary>
+  <p>
+  
+  # yes, even hidden code blocks!
+  
+  ```python
+  print("hello world!")
+  ```
+  
+  </p>
+  </details>
+</div>
