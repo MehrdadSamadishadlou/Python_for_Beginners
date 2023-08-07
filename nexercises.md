@@ -25,21 +25,21 @@ filename: nexercises
       print( x )
       ```
 
-3. Write a program that utilizes the input function to ask the user for their name, and then delivers a personalized welcome message as follows.
+3. Write a program that utilizes the input function to ask the user for their name, then deliver a personalized welcome message as follows.
 
       ```
       Enter your name: Mehrdad
       Hello Mehrdad
       ```
 
-4. Write a program that uses the input function to ask the user for the number of hours he/she worked and the hourly payment, and then calculates the gross pay based on this information.
+4. Write a program that uses the input function to ask the user for the number of hours he/she worked and the hourly payment, and then calculate the gross pay based on this information.
 
       ```
       Work Hours: 32
       Hourly payment: 100000
       Pay: 3200000
       ```
-5. If we are sure that the variable 'num' is a two-digit number, which line of code would cause the output to be the reverse of the value of 'num'? (For example, if 'var' is equal to 23, the output would be 32.)
+5. If we are sure that the variable 'num' is a two-digit number, which line of code would cause the output to be the reverse of the value of 'num'? (For example, if 'var' equals 23, the output would be 32.)
 
       a. `print( str(var // 10) + str(var % 10) )`
       
@@ -48,3 +48,10 @@ filename: nexercises
       c.`print( str(var / 10) + str(var % 10) )` 
       
       d.`print( str(var % 10) + str(var / 10) )`
+
+
+# 2. Second Session
+
+1. Create a program that takes an input number and outputs the next multiple of 10 that is greater than the given number. For instance, if the input is 11, the program should print 20. If the input is 40, it should print 50.
+
+2. 
