@@ -52,6 +52,20 @@ filename: nexercises
 
 # 2. Second Session
 
-1. Create a program that takes an input number and outputs the next multiple of 10 that is greater than the given number. For instance, if the input is 11, the program should print 20. If the input is 40, it should print 50.
+1. Write a program that takes an input number and outputs the next multiple of 10 that is greater than the given number. For instance, if the input is 11, the program should print 20. If the input is 40, it should print 50.
 
-2. 
+2. Write a program that takes two input numbers and prints the larger number as the output. The first line of input should contain the first number, while the second line should contain the second number. The input numbers are guaranteed to be positive integers. If the two input numbers are equal, you can print either one of them.
+
+3. Write a program that prompts the user to enter their age and prints their corresponding age group.
+
+      If the age is between zero (exclusive) and six (inclusive), the program should output "preschooler".
+      
+      If the age is between six (inclusive) and ten (exclusive), the program should output "child".
+      
+      If the age is between ten (inclusive) and fourteen (exclusive), the program should output "adolescent".
+      
+      If the age is between fourteen (inclusive) and twenty-four (exclusive), the program should output "youth".
+      
+      If the age is between twenty-four (inclusive) and forty (exclusive), the program should output "adult".
+      
+      If the age is forty or above, the program should output "middle-aged".
