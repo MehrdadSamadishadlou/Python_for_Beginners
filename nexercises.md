@@ -71,3 +71,10 @@ filename: nexercises
       If the age is forty or above, the program should output "middle-aged".
 
 4. Write a program that prompts the user to enter three numbers: A, B, and C. If A is even or both B and C are even, the program should print "good". Otherwise, it should print "bad". Try to achieve this using the OR and AND operators.
+
+5. Write a program that prompts the user to enter four numbers and prints the maximum value among them.
+
+6. Write a program that assists consumers in deciding whether to consume a food product based on the colors of the health guide labels. If a product meets the following conditions, print the message "Do not consume." Otherwise, print the message "Safe to consume":
+      - It has at least three red labels.
+      - It has at least two red labels and at least two yellow labels.
+      - All labels are either yellow or red (meaning we don't have any green labels!).      
