@@ -4,19 +4,15 @@ layout: template
 filename: materials
 --- 
 
-<details>
-  <summary>Click me</summary>  
   
-  # 1. First Session
-  
-  ## An Introduction to Python Programming
-  
-  You can download the introductory presentation file by following the link provided below.
-  
-  <a href="https://drive.google.com/file/d/1CccpPF6sBml0l_dvmNUv2NnlsVDffva-/view?usp=sharing" target="_blank"><button>Presentation</button></a>
+# 1. First Session
 
+## An Introduction to Python Programming
 
-</details>  
+You can download the introductory presentation file by following the link provided below.
+
+<a href="https://drive.google.com/file/d/1CccpPF6sBml0l_dvmNUv2NnlsVDffva-/view?usp=sharing" target="_blank"><button>Presentation</button></a>
+
 
 ## Python Environment
 
