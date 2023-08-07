@@ -58,7 +58,7 @@ filename: nexercises
 
 3. Write a program that prompts the user to enter their age and prints their corresponding age group.
 
-      - If the age is between zero (exclusive) and six (inclusive), the program should output "preschooler".
+      - If the age is between zero and six (exclusive), the program should output "preschooler".
       - If the age is between six (inclusive) and ten (exclusive), the program should output "child".
       - If the age is between ten (inclusive) and fourteen (exclusive), the program should output "adolescent".
       - If the age is between fourteen (inclusive) and twenty-four (exclusive), the program should output "youth".
