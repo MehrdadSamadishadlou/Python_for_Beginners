@@ -69,3 +69,5 @@ filename: nexercises
       If the age is between twenty-four (inclusive) and forty (exclusive), the program should output "adult".
       
       If the age is forty or above, the program should output "middle-aged".
+
+4. Write a program that prompts the user to enter three numbers: A, B, and C. If A is even or both B and C are even, the program should print "good". Otherwise, it should print "bad". Try to achieve this using the OR and AND operators.
