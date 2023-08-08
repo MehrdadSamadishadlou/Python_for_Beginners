@@ -71,6 +71,11 @@ You can download the code I have written during this session as a pdf file from 
 
 # 2. Second Session
 
+w3schools website can be highly beneficial during your learning process. It provides concise explanations for all the topics we have discussed in class with some examples. You can access the website by clicking on the following link:
+
+<a href="https://www.w3schools.com/python/default.asp" target="_blank"><button>w3schools.com</button></a>
+
+
 ## Session Codes
 
 I have uploaded all the codes I have written in a zip file. Additionally, Mr. Ahmadian's note is also available for download.
