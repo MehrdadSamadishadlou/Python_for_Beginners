@@ -75,5 +75,5 @@ filename: nexercises
       - All labels are either yellow or red (meaning we don't have any green labels!).      
 
       <p align="center">
-        <img id="Hist" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/114a81c4-2d80-4f6f-9d65-982f3fbf635f" />
+        <img id="Hist" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/114a81c4-2d80-4f6f-9d65-982f3fbf635f" width="300" />
       </p>
