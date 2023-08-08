@@ -73,3 +73,7 @@ filename: nexercises
       - It has at least three red labels.
       - It has at least two red labels and at least two yellow labels.
       - All labels are either yellow or red (meaning we don't have any green labels!).      
+
+      <p align="center">
+        <img id="Hist" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/114a81c4-2d80-4f6f-9d65-982f3fbf635f" />
+      </p>
