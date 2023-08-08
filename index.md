@@ -8,7 +8,7 @@ filename: index
 
 
 > **IMPORTANT**  
-> **Please install VScode for the next session. You can find a link to its download page on** <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners/materials">The course material page</a>.
+> Large language models like ChatGPT can be highly useful, but relying on them to solve exercises can significantly hinder your learning process. Therefore, please refrain from using them to directly solve exercises. Instead, try to solve the exercises on your own first. Once you have attempted to solve them, you can ask the models for their solutions and compare them to your own. This way, you can identify areas where they wrote better codes and learn from them.
 
 > **According to the class poll, the following class times have been chosen:**
 > 
