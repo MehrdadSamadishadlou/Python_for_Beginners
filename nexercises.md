@@ -86,7 +86,7 @@ filename: nexercises
 # 3. Third Session
 
 > **IMPORTANT**  
-> The purpose of the exercises that require you to determine the output of a code is to encourage you to execute the code yourself rather than relying on the Python interpreter.
+> The purpose of the exercises that require you to determine the output of a code is to encourage you to execute the code in your mind rather than relying on the Python interpreter.
 
 1. What will the following Python program print out?
 
