@@ -85,6 +85,9 @@ filename: nexercises
 
 # 3. Third Session
 
+> **IMPORTANT**  
+> The purpose of the exercises that require you to determine the output of a code is to encourage you to execute the code yourself rather than relying on the Python interpreter.
+
 1. What will the following Python program print out?
 
       ```
@@ -124,3 +127,13 @@ filename: nexercises
       print(do_twice(add, a, b))
       ```
      
+4. Write a program that converts a student's numerical score into a corresponding letter grade (A-F) according to the following table.
+
+      ```
+       Score   Grade
+      >= 18     A
+      >= 16     B
+      >= 14     C
+      >= 12     D
+       < 10     F
+      ```
