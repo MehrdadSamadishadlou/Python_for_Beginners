@@ -135,5 +135,5 @@ filename: nexercises
       >= 16     B
       >= 14     C
       >= 12     D
-       < 10     F
+       < 12     F
       ```
