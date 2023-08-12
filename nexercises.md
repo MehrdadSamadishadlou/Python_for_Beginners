@@ -81,3 +81,46 @@ filename: nexercises
       <p align="center">
         <img id="Hist" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/114a81c4-2d80-4f6f-9d65-982f3fbf635f" width="300" />
       </p>
+
+
+# 3. Third Session
+
+1. What will the following Python program print out?
+
+      ```
+      def print_double(x):
+      print(2 * x)
+
+
+      print_double(3)
+      ```
+
+2. What will the following Python program print out?
+
+      ```
+      def shout(word):
+            return word + "!"
+
+      
+      speak = shout
+      output = speak("shout")
+      print(output)
+      ```
+
+ 3. What will the following Python program print out?
+
+      ```
+      def add(x, y):
+            return x + y
+
+ 
+      def do_twice(func, x, y):
+            return func(func(x, y), func(x, y))
+
+
+      a = 5
+      b = 10
+
+      print(do_twice(add, a, b))
+      ```
+     
