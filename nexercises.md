@@ -150,9 +150,29 @@ filename: nexercises
    ```
    32
    ```
-      
+   
+   example output:  
    ```
    not prime
    ```
 
-2. 
+2. In this program, input the score achieved by Sepidrood Rasht team in the matches of the Premier League and print the total score of Sepidrood Rasht along with the number of victories they have obtained this season. Sepidrood plays 10 games in the Premier League, so the scores of this team will be provided to you in 10 lines. For each game, Sepidrood can gain zero, one, or three points. A loss corresponds to zero points, a draw corresponds to one point, and a win corresponds to three points.
+
+   example input:
+   ```
+   1
+   0
+   3
+   1
+   1
+   3
+   0
+   0
+   3
+   1
+   ```
+
+   example input:
+   ```
+   3 13
+   ```
