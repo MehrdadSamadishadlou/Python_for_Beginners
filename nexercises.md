@@ -172,7 +172,7 @@ filename: nexercises
    1
    ```
 
-   example input:
+   example output:
    ```
    13 3
    ```
@@ -193,7 +193,40 @@ filename: nexercises
    -1
    ```
 
-   example input:
+   example output:
    ```
    513 396
+   ```
+
+4. Write a program that takes 20 numbers as input and, prints the number with the highest number of divisors along with the count of its divisors. If multiple numbers have the same highest divisor count, print the largest among them.
+
+   One of the goals of the following question is to use functions. Feel free to write separate functions for specific parts of the code. For this question, create a function that takes a number as input and returns the count of its divisors. Then, incorporate this function into your program.
+
+   example input:
+   ```
+   767
+   665
+   999
+   895
+   907
+   796
+   561
+   914
+   719
+   819
+   555
+   529
+   672
+   933
+   882
+   869
+   801
+   660
+   879
+   985
+   ```
+
+   example output:
+   ```
+   672 24
    ```
