@@ -156,7 +156,7 @@ filename: nexercises
    not prime
    ```
 
-2. In this program, input the score achieved by Sepidrood Rasht team in the matches of the Premier League and print the total score of Sepidrood Rasht along with the number of victories they have obtained this season. Sepidrood plays 10 games in the Premier League, so the scores of this team will be provided to you in 10 lines. For each game, Sepidrood can gain zero, one, or three points. A loss corresponds to zero points, a draw corresponds to one point, and a win corresponds to three points.
+2. In this program, input the score achieved by Siah-gooshan team in the matches of the Premier League and print the total score of Siah-gooshan along with the number of victories they have obtained this season. Siah-gooshan plays 10 games in the Premier League, so the scores of this team will be provided to you in 10 lines. For each game, Siah-gooshan can gain zero, one, or three points. A loss corresponds to zero points, a draw corresponds to one point, and a win corresponds to three points.
 
    example input:
    ```
@@ -174,5 +174,26 @@ filename: nexercises
 
    example input:
    ```
-   3 13
+   13 3
+   ```
+
+
+3. Write a program that reads the votes of candidates for TBZMED shoraye-senfi from the input and prints the highest and second-highest votes. The program will continue reading from the input until $-1$ is entered. Once $-1$ appears in the input, the program will stop reading and print the highest vote. It is guaranteed that the votes of the candidates in the input are unique (i.e., no two candidates will have the same votes).
+
+
+   example input:
+   ```
+   173
+   155
+   396
+   513
+   148
+   326
+   289
+   -1
+   ```
+
+   example input:
+   ```
+   513 396
    ```
