@@ -137,3 +137,22 @@ filename: nexercises
       >= 12     D
        < 12     F
       ```
+
+# 4. Fourth Session
+
+1. Please write a program that takes a positive number as input and determines whether it is a prime number or not.
+   
+   Definition of a prime number: It is only divisible by 1 and itself, with no other divisors. For example, 7 is a prime number because it    can only be divided by 1 and 7. However, 6 is not a prime number because it can be divided by 1, 2, 3, and 6.
+
+   If the number is prime, output the word "prime." If the number is not prime, output the phrase "not prime."
+
+   example input:
+   ```
+   32
+   ```
+      
+   ```
+   not prime
+   ```
+
+2. 
