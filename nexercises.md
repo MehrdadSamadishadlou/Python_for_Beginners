@@ -90,53 +90,53 @@ print('b'*2 + 'a'*1 + 'c'*3 )
 
 1. What will the following Python program print out?
 
-```
-def print_double(x):
-      print(2 * x)
-
-
-print_double(3)
-```
+   ```
+   def print_double(x):
+         print(2 * x)
+      
+      
+   print_double(3)
+   ```
 
 2. What will the following Python program print out?
 
-```
-def shout(word):
-      return word + "!"
-
-
-speak = shout
-output = speak("shout")
-print(output)
-```
+   ```
+   def shout(word):
+         return word + "!"
+      
+      
+   speak = shout
+   output = speak("shout")
+   print(output)
+   ```
 
  3. What will the following Python program print out?
 
-      ```
-      def add(x, y):
-            return x + y
+    ```
+    def add(x, y):
+          return x + y
 
  
-      def do_twice(func, x, y):
-            return func(func(x, y), func(x, y))
+    def do_twice(func, x, y):
+          return func(func(x, y), func(x, y))
 
 
-      a = 5
-      b = 10
+    a = 5
+    b = 10
 
-      print(do_twice(add, a, b))
-      ```
+    print(do_twice(add, a, b))
+    ```
      
 4. Write a program that converts a student's numerical score into a corresponding letter grade (A-F) according to the following table.
 
-      ```
-       Score   Grade
-      >= 18     A
-      >= 16     B
-      >= 14     C
-      >= 12     D
-       < 12     F
-      ```
+   ```
+   Score   Grade
+   >= 18     A
+   >= 16     B
+   >= 14     C
+   >= 12     D
+   < 12     F
+   ```
 
 # 4. Fourth Session
 
