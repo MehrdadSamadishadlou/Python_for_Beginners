@@ -3,6 +3,9 @@ title: Main Page
 layout: template
 filename: index
 --- 
+>**IMPORTANT**
+> The upcoming session on Saturday, Mordad 28th, will take place from 9:30 AM to 12:20 PM.
+
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
