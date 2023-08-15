@@ -90,25 +90,25 @@ print('b'*2 + 'a'*1 + 'c'*3 )
 
 1. What will the following Python program print out?
 
-      ```
-      def print_double(x):
-            print(2 * x)
+```
+def print_double(x):
+      print(2 * x)
 
 
-      print_double(3)
-      ```
+print_double(3)
+```
 
 2. What will the following Python program print out?
 
-      ```
-      def shout(word):
-            return word + "!"
+```
+def shout(word):
+      return word + "!"
 
-      
-      speak = shout
-      output = speak("shout")
-      print(output)
-      ```
+
+speak = shout
+output = speak("shout")
+print(output)
+```
 
  3. What will the following Python program print out?
 
@@ -140,7 +140,20 @@ print('b'*2 + 'a'*1 + 'c'*3 )
 
 # 4. Fourth Session
 
-1. Please write a program that takes a positive number as input and determines whether it is a prime number or not.
+1. Write a program that accepts an input number, n, calculates its factorial and displays the result.
+
+   example input:
+   ```
+   5
+   ```
+   
+   example output:  
+   ```
+   120
+   ```
+
+
+2. Please write a program that takes a positive number as input and determines whether it is a prime number or not.
    
    Definition of a prime number: It is only divisible by 1 and itself, with no other divisors. For example, 7 is a prime number because it    can only be divided by 1 and 7. However, 6 is not a prime number because it can be divided by 1, 2, 3, and 6.
 
@@ -156,7 +169,7 @@ print('b'*2 + 'a'*1 + 'c'*3 )
    not prime
    ```
 
-2. In this program, input the score achieved by Siah-gooshan team in the matches of the Premier League and print the total score of Siah-gooshan along with the number of victories they have obtained this season. Siah-gooshan plays 10 games in the Premier League, so the scores of this team will be provided to you in 10 lines. For each game, Siah-gooshan can gain zero, one, or three points. A loss corresponds to zero points, a draw corresponds to one point, and a win corresponds to three points.
+3. In this program, input the score achieved by Siah-gooshan team in the matches of the Premier League and print the total score of Siah-gooshan along with the number of victories they have obtained this season. Siah-gooshan plays 10 games in the Premier League, so the scores of this team will be provided to you in 10 lines. For each game, Siah-gooshan can gain zero, one, or three points. A loss corresponds to zero points, a draw corresponds to one point, and a win corresponds to three points.
 
    example input:
    ```
@@ -178,7 +191,7 @@ print('b'*2 + 'a'*1 + 'c'*3 )
    ```
 
 
-3. Write a program that reads the votes of candidates for TBZMED shoraye-senfi from the input and prints the highest and second-highest votes. The program will continue reading from the input until $-1$ is entered. Once $-1$ appears in the input, the program will stop reading and print the highest vote. It is guaranteed that the votes of the candidates in the input are unique (i.e., no two candidates will have the same votes).
+4. Write a program that reads the votes of candidates for TBZMED shoraye-senfi from the input and prints the highest and second-highest votes. The program will continue reading from the input until $-1$ is entered. Once $-1$ appears in the input, the program will stop reading and print the highest vote. It is guaranteed that the votes of the candidates in the input are unique (i.e., no two candidates will have the same votes).
 
 
    example input:
@@ -198,7 +211,7 @@ print('b'*2 + 'a'*1 + 'c'*3 )
    513 396
    ```
 
-4. Write a program that takes 20 numbers as input and, prints the number with the highest number of divisors along with the count of its divisors. If multiple numbers have the same highest divisor count, print the largest among them.
+5. Write a program that takes 20 numbers as input and, prints the number with the highest number of divisors along with the count of its divisors. If multiple numbers have the same highest divisor count, print the largest among them.
 
    One of the goals of the following question is to use functions. Feel free to write separate functions for specific parts of the code. For this question, create a function that takes a number as input and returns the count of its divisors. Then, incorporate this function into your program.
 
@@ -230,3 +243,6 @@ print('b'*2 + 'a'*1 + 'c'*3 )
    ```
    672 24
    ```
+
+
+
