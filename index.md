@@ -3,7 +3,7 @@ title: Main Page
 layout: template
 filename: index
 --- 
->**IMPORTANT**
+>**IMPORTANT**  
 > The upcoming session on Saturday, Mordad 28th, will take place from 9:30 AM to 12:20 PM.
 
 
