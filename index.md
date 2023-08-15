@@ -7,7 +7,7 @@ filename: index
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
 > **IMPORTANT**  
-> The upcoming session on Saturday, Mordad 28th, will take place from 9:30 AM to 12:20 PM.
+> The upcoming session on Saturday, Mordad 28th, will take place from 9:30 AM 🕤  to 12:30 PM 🕧.
 
 
 > **According to the class poll, the following class times have been chosen:**
