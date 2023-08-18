@@ -191,7 +191,7 @@ print('b'*2 + 'a'*1 + 'c'*3 )
    ```
 
 
-4. Write a program that reads the votes of candidates for TBZMED shoraye-senfi from the input and prints the highest and second-highest votes. The program will continue reading from the input until $-1$ is entered. Once $-1$ appears in the input, the program will stop reading and print the highest vote. It is guaranteed that the votes of the candidates in the input are unique (i.e., no two candidates will have the same votes).
+4. Write a program that reads the votes of candidates for TBZMED shoraye-senfi from the input and prints the highest and second-highest votes. The program will continue reading from the input until -1 is entered. Once -1 appears in the input, the program will stop reading and print the highest vote. It is guaranteed that the votes of the candidates in the input are unique (i.e., no two candidates will have the same votes).
 
 
    example input:
