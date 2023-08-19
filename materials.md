@@ -101,3 +101,17 @@ All codes and other related materials were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/14STrXiNuPViLR7glQ5Z79PBJKq3O6Psy/view?usp=sharing" target="_blank"><button>Fourth Session Codes</button></a>
 
+# First and Second Exercise Sessions
+
+## Exercise
+
+All exercises are available using the following link.
+
+<a href="https://drive.google.com/file/d/1icmPta_KH3_Cx6VU7U_Tr9V-HUJRGI0r/view?usp=sharing" target="_blank"><button>Exercises</button></a>
+
+## Session Codes and Notes
+
+<a href="https://drive.google.com/file/d/1rVaHwsHf1ay8_A3M8mIHAEQtKl2Vrv7O/view?usp=sharing" target="_blank"><button>Exercise Sessions 1 and 2 Codes</button></a> <a href="https://drive.google.com/file/d/1NcczipgceGW2nEoF-u8Nsn83bW5Moieu/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
+
+
+
