@@ -103,11 +103,6 @@ All codes and other related materials were uploaded as a zip file.
 
 # First and Second Exercise Sessions
 
-## Exercise
-
-All exercises are available using the following link.
-
-<a href="https://drive.google.com/file/d/1icmPta_KH3_Cx6VU7U_Tr9V-HUJRGI0r/view?usp=sharing" target="_blank"><button>Exercises</button></a>
 
 ## Session Codes and Notes
 
