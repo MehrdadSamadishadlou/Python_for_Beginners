@@ -244,5 +244,9 @@ print('b'*2 + 'a'*1 + 'c'*3 )
    672 24
    ```
 
+# Exercise Sessions
 
+All exercises are available using the following link.
+
+<a href="https://drive.google.com/file/d/1icmPta_KH3_Cx6VU7U_Tr9V-HUJRGI0r/view?usp=sharing" target="_blank"><button>Exercises</button></a>
 
