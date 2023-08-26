@@ -5,7 +5,7 @@ filename: projects
 --- 
 
 > **IMPORTANT**  
-> The deadline for the project is 11:59 at Shahrivar 10th.
+> The deadline for the project is 11:59 p.m. at Shahrivar 10th.
 
 # The First Project
 
