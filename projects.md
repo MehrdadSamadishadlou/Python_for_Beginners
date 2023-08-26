@@ -4,6 +4,9 @@ layout: template
 filename: projects
 --- 
 
+> **IMPORTANT**  
+> The deadline for the project is 11:59 at Shahrivar 10th.
+
 # The First Project
 
 Write a program that can play the following game with a computer.
