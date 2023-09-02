@@ -250,3 +250,36 @@ All exercises are available using the following link.
 
 <a href="https://drive.google.com/file/d/1icmPta_KH3_Cx6VU7U_Tr9V-HUJRGI0r/view?usp=sharing" target="_blank"><button>Exercises</button></a>
 
+# Fifth and Sixth Session: Data Structures and Methods
+
+1. Write a program that reads 10 names from input and prints their standardized versions in alphabetical order as output. A standardized name is one that begins with a capital letter and the rest of the letters are lowercase.
+
+   example input:
+   ```
+   BaHram
+   MaHnaZ
+   hooman
+   FaribORZ
+   barAN
+   HedieH
+   ALI
+   EZATOLLAH
+   MOHAMADALI
+   JAMSHID
+   ```
+
+   example output:
+   ```
+   Ali
+   Bahram
+   Baran
+   Ezatollah
+   Fariborz
+   Hedieh
+   Hooman
+   Jamshid
+   Mahnaz
+   Mohamadali
+   ```
+
+   
