@@ -119,3 +119,11 @@ All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/13SmeEwNbadLpAQczNpXRSYRiaC-EAQAt/view?usp=sharing" target="_blank"><button>Fifth Session Codes</button></a> <a href="https://drive.google.com/file/d/1p1IQmkMpvH7VeDPqvaD4_S4s-0x-6MbF/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
 
+
+# 6. Sixth Session
+
+## Session Codes
+
+All codes were uploaded as a zip file.
+
+<a href="https://drive.google.com/file/d/1n7lfKIqNLnktdwQqMo1A5PJdsIP1ZXws/view?usp=sharing" target="_blank"><button>Sixth Session Codes</button></a> <a href="https://drive.google.com/file/d/1Thfg3JhZfpzD5c5ZkHxlImDbLJ6JswKn/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
