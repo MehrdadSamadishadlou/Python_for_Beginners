@@ -329,7 +329,6 @@ All exercises are available using the following link.
    hastam
    ```
 
-
 4. A palindrome is a word that reads the same backward as forward, such as "racecar" or "madam".
 
 Write a program that takes a word as input from the user and checks if it is a palindrome. The program should first remove any spaces and make the input lowercase.
@@ -353,3 +352,33 @@ Write a program that takes a word as input from the user and checks if it is a p
    ```
    not Palindrome
    ```
+
+5. The specifications of n laptops are given to you. The first line of input contains the integer n which shows the number of laptops. Each of the next n lines contains two integers where the first integer shows the price of the laptop and the second integer shows its quality. If you can find two laptops where one has lower price but higher quality than the other, print "Nice!". Otherwise print "Bad!".
+
+   example input:
+   ```
+   2
+   1 10
+   7 3
+   ```
+
+   example output:
+   ```
+   Nice!
+   ```
+
+   example input:
+   ```
+   4
+   1 5
+   7 9
+   5 6
+   20 30
+   ```
+
+   example output:
+   ```
+   Bad!
+   ```
+
+6. Write a program to check if AB and BA can be found in a string without overlapping each other. The order of AB and BA does not matter. For example, if the input is ABBA the answer is YES. If the input is BAAB the answer is still YES. But if the input is ABA the answer is NO. Or if the input is ABHA the answer is still NO.
