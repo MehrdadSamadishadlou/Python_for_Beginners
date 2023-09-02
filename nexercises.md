@@ -331,7 +331,7 @@ All exercises are available using the following link.
 
 4. A palindrome is a word that reads the same backward as forward, such as "racecar" or "madam".
 
-Write a program that takes a word as input from the user and checks if it is a palindrome. The program should first remove any spaces and make the input lowercase.
+   Write a program that takes a word as input from the user and checks if it is a palindrome. The program should first remove any spaces and make the input lowercase.
 
    example input:
    ```
