@@ -250,7 +250,7 @@ All exercises are available using the following link.
 
 <a href="https://drive.google.com/file/d/1icmPta_KH3_Cx6VU7U_Tr9V-HUJRGI0r/view?usp=sharing" target="_blank"><button>Exercises</button></a>
 
-# Fifth and Sixth Session: Data Structures and Methods
+# Fifth and Sixth Sessions: Data Structures and Methods
 
 1. Write a program that reads 10 names from input and prints their standardized versions in alphabetical order as output. A standardized name is one that begins with a capital letter and the rest of the letters are lowercase.
 
@@ -282,4 +282,34 @@ All exercises are available using the following link.
    Mohamadali
    ```
 
+2. Write a program that prompts the user to input a string. The program should then check if the string contains the word "hello" while ignoring some letters. For example, if the user enters "hexxllo", the program should still detect "hello" by ignoring the extra "x" letters.
+
+   example input:
+   ```
+   ahhellllloou
+   ```
    
+   example output:
+   ```
+   Yes
+   ```
+
+   example input:
+   ```
+   hlelo
+   ```
+
+   example output:
+   ```
+   No
+   ```
+   
+   example input:
+   ```
+   ahhellllloou
+   ```
+
+   example output:
+   ```
+   Yes
+   ```
