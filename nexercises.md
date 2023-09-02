@@ -313,3 +313,18 @@ All exercises are available using the following link.
    ```
    Yes
    ```
+
+
+3. Write a program that checks if a word has more uppercase letters than lowercase letters. If so, it prints the word in all uppercase letters. Otherwise, it prints the word in all lowercase letters.
+
+   Tip: Review string methods.
+
+   example input:
+   ```
+   hasTAM
+   ```
+
+   example output:
+   ```
+   hastam
+   ```
