@@ -306,7 +306,7 @@ All exercises are available using the following link.
    
    example input:
    ```
-   ahhellllloou
+   pnnepelqomhhheollvlo
    ```
 
    example output:
