@@ -127,3 +127,12 @@ All codes were uploaded as a zip file.
 All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1n7lfKIqNLnktdwQqMo1A5PJdsIP1ZXws/view?usp=sharing" target="_blank"><button>Sixth Session Codes</button></a> <a href="https://drive.google.com/file/d/1Thfg3JhZfpzD5c5ZkHxlImDbLJ6JswKn/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
+
+
+# 7. Seventh Session
+
+## Session Codes
+
+All codes were uploaded as a zip file.
+
+<a href="https://drive.google.com/file/d/17uVOdivo1HgZeEyaSep4ynSWo1bw3hD_/view?usp=sharing" target="_blank"><button>Seventh Session Codes</button></a> <a href="https://drive.google.com/file/d/1oracER6mBjMgRgY-YUOAfQQdAgWzKKNV/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
