@@ -101,7 +101,7 @@ All codes and other related materials were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/14STrXiNuPViLR7glQ5Z79PBJKq3O6Psy/view?usp=sharing" target="_blank"><button>Fourth Session Codes</button></a> <a href="https://drive.google.com/file/d/1kh3d79MwPvo2R_8d_J2H6zHiDvGCcN7-/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a>
 
-# Exercise Sessions
+# Exercise Sessions 1-4
 
 ## Session Codes and Notes
 
@@ -129,10 +129,17 @@ All codes were uploaded as a zip file.
 <a href="https://drive.google.com/file/d/1n7lfKIqNLnktdwQqMo1A5PJdsIP1ZXws/view?usp=sharing" target="_blank"><button>Sixth Session Codes</button></a> <a href="https://drive.google.com/file/d/1Thfg3JhZfpzD5c5ZkHxlImDbLJ6JswKn/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
 
 
+# Exercise Session 5
+
+## Session Codes
+
+<a href="https://drive.google.com/file/d/1wo4O7x9WkAA3dKuOqTtFjcZIOH-Skqnb/view?usp=sharing" target="_blank"><button>Exercise Sessions 1 and 2 Codes</button></a>
+
+
 # 7. Seventh Session
 
 ## Session Codes
 
 All codes were uploaded as a zip file.
 
-<a href="https://drive.google.com/file/d/17uVOdivo1HgZeEyaSep4ynSWo1bw3hD_/view?usp=sharing" target="_blank"><button>Seventh Session Codes</button></a> <a href="https://drive.google.com/file/d/1oracER6mBjMgRgY-YUOAfQQdAgWzKKNV/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
+<a href="https://drive.google.com/file/d/1t5xjniHzSux8ZgbPyJIwc2VdJCrrDsz1/view?usp=sharing" target="_blank"><button>Seventh Session Codes</button></a> <a href="https://drive.google.com/file/d/1oracER6mBjMgRgY-YUOAfQQdAgWzKKNV/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
