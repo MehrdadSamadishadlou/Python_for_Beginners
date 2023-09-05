@@ -133,7 +133,7 @@ All codes were uploaded as a zip file.
 
 ## Session Codes
 
-<a href="https://drive.google.com/file/d/1wo4O7x9WkAA3dKuOqTtFjcZIOH-Skqnb/view?usp=sharing" target="_blank"><button>Exercise Sessions 1 and 2 Codes</button></a>
+<a href="https://drive.google.com/file/d/1wo4O7x9WkAA3dKuOqTtFjcZIOH-Skqnb/view?usp=sharing" target="_blank"><button>Exercise Session 5 Codes</button></a>
 
 
 # 7. Seventh Session
