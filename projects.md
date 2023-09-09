@@ -40,6 +40,7 @@ This program analyzes student grade data from a CSV file containing 20 students'
 Features:
 
 - Class + mean: Prints the GPA mean for all students in a specified class to the terminal.
+  
     <img width="298" alt="1" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/467bc683-93f8-45ef-82f0-81d8333f012f">
 
 
