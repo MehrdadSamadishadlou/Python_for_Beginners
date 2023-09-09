@@ -5,7 +5,8 @@ filename: projects
 --- 
 
 > **IMPORTANT**  
-> The first project deadline: Shahrivar 31th at 11:59 p.m.
+> The first project deadline: Shahrivar 31st at 11:59 p.m.
+
 
 # The First Project
 
@@ -28,7 +29,7 @@ The printed number creates three possible scenarios:
 3. The guessed number matches the user's secret number. The user types 'c' to indicate the program guessed correctly and the game ends.
 
 
-In summary, the user selects a secret number. The program tries to guess it. Based on the user's input after each guess, the program adjusts its next guess to be smaller or larger number, until eventually guessing correctly.
+In summary, the user selects a secret number. The program tries to guess it. Based on the user's input after each guess, the program adjusts its next guess to be a smaller or larger number, until eventually guessing correctly.
 
 
 # Final Project: Student Grade Analysis
@@ -63,5 +64,6 @@ Other Notes:
 - The program continues prompting for commands until the user enters "Finish"
 
 
+**You can download the grades file using the following link:**
 <a href="https://drive.google.com/file/d/18g2BOMCJ5X-sVHnOBTnHRgu_WI5mgO3o/view?usp=sharing" target="_blank"><button>Student's Grades</button></a>
 
