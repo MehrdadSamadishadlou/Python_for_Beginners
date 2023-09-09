@@ -29,3 +29,9 @@ The printed number creates three possible scenarios:
 
 
 In summary, the user selects a secret number. The program tries to guess it. Based on the user's input after each guess, the program adjusts its next guess to be smaller or larger number, until eventually guessing correctly.
+
+
+
+
+
+https://drive.google.com/file/d/18g2BOMCJ5X-sVHnOBTnHRgu_WI5mgO3o/view?usp=sharing
