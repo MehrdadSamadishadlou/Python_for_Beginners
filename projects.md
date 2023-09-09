@@ -47,7 +47,7 @@ Features:
 
 - All + class: Prints all students' names and GPAs to the terminal.
     <p align="center">
-    <img width="204" alt="2" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/15f1a3e2-ce73-46b5-922e-a29029ddb00f">
+    ![photo_2023-09-09_15-17-08](https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/ff5756d2-9982-4b6e-84e5-7239d4d2b083)
     </p>
 
 
