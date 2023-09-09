@@ -46,18 +46,37 @@ Features:
     </p>
 
 - All + class: Prints all students' names and GPAs to the terminal.
+    <p align="center">
+    <img width="204" alt="2" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/15f1a3e2-ce73-46b5-922e-a29029ddb00f">
+    </p>
+
 
 - All + alphabet: Writes a CSV file containing all students' names and GPAs, sorted alphabetically by name. 
 
 - All + gpa: Writes a CSV file containing all students' names and GPAs, sorted by GPA.
 
 - Student + name: Prints a specified student's name and GPA to the terminal.
+    <p align="center">
+    <img width="257" alt="3" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/6cdb095e-7a5c-4370-9aa4-f8c0635ee490">
+    </p>
 
-- Best + number: Prints the top n students by GPA and their rank to the terminal. 
+
+- Best + number: Prints the top n students by GPA and their rank to the terminal.
+    <p align="center">
+    <img width="426" alt="best" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/1cee7e3e-2b4a-4038-b5b0-d53d07250b3e">
+    </p>
+
 
 - Worst + number: Prints the bottom n students by GPA and their rank to the terminal.
+    <p align="center">
+    <img width="394" alt="worst" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/87d2aa5b-6599-4047-b3db-72246b71626e">
+    </p>
 
 - Invalid command: If the user's input doesn't match any of the above commands, print "Invalid Command" to the terminal.
+    <p align="center">
+    <img width="175" alt="inval" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/aedddaa5-a3ee-4326-a186-c347edfb3247">
+    </p>
+
 
 - Finish: Exits the program.
 
