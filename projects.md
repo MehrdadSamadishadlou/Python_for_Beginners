@@ -1,4 +1,3 @@
-[gpa_ordered.csv](https://github.com/MehrdadSamadishadlou/Python_for_Beginners/files/12565675/gpa_ordered.csv)[alpha_sorted.csv](https://github.com/MehrdadSamadishadlou/Python_for_Beginners/files/12565671/alpha_sorted.csv)---
 title: Projects
 layout: template
 filename: projects
@@ -51,52 +50,9 @@ Features:
     </p>
 
 - All + alphabet: Writes a CSV file containing all students' names and GPAs, sorted alphabetically by name.
-        [Uploading alph,gpas
-    Andrew,14.75
-    Ashley,14.37
-    Christopher,15.5
-    Daniel,14.25
-    David,15.5
-    Elizabeth,14.25
-    Emily,15.62
-    James,15.5
-    Jennifer,14.37
-    Jessica,13.12
-    John,14.62
-    Joshua,15.5
-    Matthew,15.12
-    Michael,15.5
-    Michelle,14.25
-    Olivia,14.37
-    Ryan,15.12
-    Samantha,14.37
-    Sarah,13.5
-    Stephanie,14.25a_sorted.csv…]()
 
 
 - All + gpa: Writes a CSV file containing all students' names and GPAs, sorted by GPA.
-
-    [Uploading gpa_ordered,gpas
-    Emily,15.62
-    Christopher,15.5
-    Joshua,15.5
-    Michael,15.5
-    David,15.5
-    James,15.5
-    Ryan,15.12
-    Matthew,15.12
-    Andrew,14.75
-    John,14.62
-    Jennifer,14.37
-    Samantha,14.37
-    Olivia,14.37
-    Ashley,14.37
-    Stephanie,14.25
-    Daniel,14.25
-    Michelle,14.25
-    Elizabeth,14.25
-    Sarah,13.5
-    Jessica,13.12.csv…]()
 
 
 - Student + name: Prints a specified student's name and GPA to the terminal.
