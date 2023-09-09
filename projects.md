@@ -31,7 +31,37 @@ The printed number creates three possible scenarios:
 In summary, the user selects a secret number. The program tries to guess it. Based on the user's input after each guess, the program adjusts its next guess to be smaller or larger number, until eventually guessing correctly.
 
 
+# Final Project: Student Grade Analysis
+
+Overview:
+This program analyzes student grade data from a CSV file containing 20 students' grades across 8 courses. The program allows the user to explore and output the data in various ways through a command line interface. 
+
+Features:
+
+- Class + mean: Prints the GPA mean for all students in a specified class to the terminal.
+
+- All + class: Prints all students' names and GPAs to the terminal.
+
+- All + alphabet: Writes a CSV file containing all students' names and GPAs, sorted alphabetically by name. 
+
+- All + gpa: Writes a CSV file containing all students' names and GPAs, sorted by GPA.
+
+- Student + name: Prints a specified student's name and GPA to the terminal.
+
+- Best + number: Prints the top n students by GPA and their rank to the terminal. 
+
+- Worst + number: Prints the bottom n students by GPA and their rank to the terminal.
+
+- Invalid command: If the user's input doesn't match any of the above commands, print "Invalid Command" to the terminal.
+
+- Finish: Exits the program.
+
+Other Notes:
+- The program reads in the grades CSV file at start-up before prompting the user for commands.
+- Define a  function that takes pandas dataframe as input and returns a dictionary containing names and GPAs.
+- All numeric outputs are rounded to 2 decimal places.
+- The program continues prompting for commands until the user enters "Finish"
 
 
-<a href="https://drive.google.com/file/d/18g2BOMCJ5X-sVHnOBTnHRgu_WI5mgO3o/view?usp=sharing" target="_blank"><button>First Session Codes</button></a>
+<a href="https://drive.google.com/file/d/18g2BOMCJ5X-sVHnOBTnHRgu_WI5mgO3o/view?usp=sharing" target="_blank"><button>Student's Grades</button></a>
 
