@@ -47,7 +47,7 @@ Features:
 
 - All + class: Prints all students' names and GPAs to the terminal.
     <p align="center">
-    ![photo_2023-09-09_15-17-08](https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/4152c1f2-0e1e-4085-98e5-5934e57dea46)
+     <img width="298" alt="1" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/4152c1f2-0e1e-4085-98e5-5934e57dea46">
     </p>
 
 - All + alphabet: Writes a CSV file containing all students' names and GPAs, sorted alphabetically by name. 
