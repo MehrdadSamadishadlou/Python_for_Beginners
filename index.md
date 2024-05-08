@@ -6,27 +6,24 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-
-
-> **According to the class poll, the following class times have been chosen:**
-> 
-> **Saturdays, 10-12**
-> 
-> **Tuesdays, 10-12**
-
-
-# About this Course
-
-<p style='text-align: justify;'> 
-Welcome to the <b>Python for Beginners!</b>  I've designed this course to be accessible and engaging for learners of all levels, so don't worry if you're new to programming – I'll guide you every step of the way. In addition, I have established certain guidelines for my class, which include the following requirements:
+<p style='text-align: justify;'>
+Welcome to our introductory course on Python programming! This comprehensive 15-session course is designed to guide you through the fundamentals of Python, one of the most versatile and widely-used programming languages in the world.
 </p>
 
-  - Bringing a laptop or tablet to each session.
-  - Ensuring a reliable internet connection throughout the class.
-  - Achieving a minimum score of 70% in order to receive certification.
-  
-<p style='text-align: justify;'> 
-If you have any questions or need further assistance, please feel free to contact me via email at <b>mehrdad.samadi90@gmail.com</b>. Additionally, for exercises and projects, please send your answers to the same email address.
+<p style='text-align: justify;'>
+Starting on [INSERT DATE], we will embark on an exciting journey, exploring the core concepts of Python, including variables and simple data types, if statements, dictionaries, loops, functions, and many more. Each session will be packed with hands-on activities, allowing you to apply what you've learned through practical exercises and engaging projects.
+</p>
+
+<p style='text-align: justify;'>
+Whether you're new to programming or already familiar with other languages, this course will equip you with the essential Python skills to take your coding abilities to new heights. By the end of the course, you'll be able to leverage Python's power to effectively manage your data, automate your data pipelines, and dive into a wide range of fields that rely heavily on Python, such as Artificial Intelligence, Web Development, Image Processing, and Software Development, among others.
+</p>
+
+<p style='text-align: justify;'>
+Python's versatility opens up a world of possibilities, and this course will provide you with the solid foundation you need to explore them all. Join us on this exciting journey and unlock the potential of Python programming!
+</p>
+
+<p style='text-align: justify;'>
+This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and ?? of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/">RDCC Workshop</a>
 </p>
 
 # About this Webpage
@@ -51,8 +48,3 @@ Finally, on <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners
 So sit back, relax, and get ready to dive into the exciting world of Python programming. By the end of this course, you'll have the skills and confidence to tackle a wide range of programming challenges and build your own Python projects from scratch. Let's get started!
 </p>
 
-## First things first: Picking a time
-
-To pick a suitable time, please participate in the following poll.
-
-<a href="https://www.when2meet.com/?20747825-MFjPd" target="_blank"><button>Poll</button></a>
