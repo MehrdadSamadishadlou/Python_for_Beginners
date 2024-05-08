@@ -15,11 +15,11 @@ Starting on [INSERT DATE], we will embark on an exciting journey, exploring the 
 </p>
 
 <p style='text-align: justify;'>
-Whether you're new to programming or already familiar with other languages, this course will equip you with the essential Python skills to take your coding abilities to new heights. By the end of the course, you'll be able to leverage Python's power to effectively manage your data, automate your data pipelines, and dive into a wide range of fields that rely heavily on Python, such as Artificial Intelligence, Web Development, Image Processing, and Software Development, among others.
+Whether you're new to programming or already familiar with other languages, this course will equip you with the essential Python skills to take your coding abilities to new heights. By the end of the course, you'll be able to leverage Python's power to effectively manage your data, automate your data pipelines, and dive into a wide range of fields that rely heavily on Python, such as Artificial Intelligence, Web Development, Image Processing, and Software Development, among others. Python's versatility opens up a world of possibilities, and this course will provide you with the solid foundation you need to explore them all. Join us on this exciting journey and unlock the potential of Python programming!
 </p>
 
 <p style='text-align: justify;'>
-Python's versatility opens up a world of possibilities, and this course will provide you with the solid foundation you need to explore them all. Join us on this exciting journey and unlock the potential of Python programming!
+Suppose you would like any additional details about the course or want to connect. In that case, I'm happy to provide more information and answer questions - feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/" target="_blank"><button>LinkedIn profile</button></a> to learn more about my background.
 </p>
 
 <p style='text-align: justify;'>
