@@ -6,11 +6,10 @@ filename: index
 
 ### Created by <a href="https://github.com/MehrdadSamadishadlou">Mehrdad Samadishadlou</a>
 
-![_93c8efc4-ef4d-4dd7-9e81-0feddbc7457c](https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/55d9b0dd-20ce-4fe0-8faa-ea8ba284060b)
-
+<p style="text-align: center"><img width="500" alt="Picture1" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/55d9b0dd-20ce-4fe0-8faa-ea8ba284060b"></p>
 
 <p style='text-align: justify;'>
-Welcome to our introductory course on Python programming! This comprehensive 15-session course is designed to guide you through the fundamentals of Python, one of the most versatile and widely-used programming languages in the world.
+Welcome to our introductory course on Python programming! This comprehensive 15-session course is designed to guide you through the fundamentals of Python, one of the most versatile and widely used programming languages in the world.
 </p>
 
 <p style='text-align: justify;'>
