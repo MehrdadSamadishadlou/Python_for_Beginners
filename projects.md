@@ -4,7 +4,9 @@ layout: template
 filename: projects
 --- 
 
+Comming Soon!
 
+<!--
 # The First Project
 
 Write a program that can play the following game with a computer.
@@ -90,4 +92,4 @@ Other Notes:
 
 **You can download the grades file using the following link:**
 <a href="https://drive.google.com/file/d/18g2BOMCJ5X-sVHnOBTnHRgu_WI5mgO3o/view?usp=sharing" target="_blank"><button>Student's Grades</button></a>
-
+-->
