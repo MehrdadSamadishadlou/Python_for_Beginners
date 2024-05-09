@@ -4,7 +4,7 @@ layout: template
 filename: projects
 --- 
 
-Comming Soon!
+Coming Soon!
 
 <!--
 # The First Project
