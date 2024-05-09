@@ -19,11 +19,11 @@ Whether you're new to programming or already familiar with other languages, this
 </p>
 
 <p style='text-align: justify;'>
-Suppose you would like any additional details about the course or want to connect. In that case, I'm happy to provide more information and answer questions - feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/" target="_blank"><button>LinkedIn profile</button></a> to learn more about my background.
+Suppose you would like any additional details about the course or want to connect. In that case, I'm happy to provide more information and answer questions - feel free to reach out to me directly at <b>mehrdad.samadi90@gmail.com</b> or visit my <a href="https://www.linkedin.com/in/mehrdad-samadishadlou-90723580/">LinkedIn profile</a> to learn more about my background.
 </p>
 
 <p style='text-align: justify;'>
-This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Medical Biotechnology Scientific Association of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/">RDCC Workshop</a>
+This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Medical Biotechnology Scientific Association of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/" target="_blank"><button>RDCC Workshop</button></a>
 </p>
 
 # About this Webpage
