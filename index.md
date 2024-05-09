@@ -23,7 +23,7 @@ Suppose you would like any additional details about the course or want to connec
 </p>
 
 <p style='text-align: justify;'>
-This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and ?? of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/">RDCC Workshop</a>
+This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Medical Biotechnology Scientific Association of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/">RDCC Workshop</a>
 </p>
 
 # About this Webpage
