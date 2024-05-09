@@ -53,7 +53,7 @@ print('b'*2 + 'a'*1 + 'c'*3 )
       
       d.`print( str(var % 10) + str(var / 10) )`
 
-
+<!--
 # 2. Second Session
 
 1. Write a program that takes an input number and outputs the next multiple of 10 that is greater than the given number. For instance, if the input is 11, the program should print 20. If the input is 40, it should print 50.
@@ -408,4 +408,4 @@ All exercises are available using the following link.
    ma goftan khodafez to shoma tonight
    ```
    
-
+-->
