@@ -13,7 +13,7 @@ Welcome to our introductory course on Python programming! This comprehensive 15-
 </p>
 
 <p style='text-align: justify;'>
-Starting on [INSERT DATE], we will embark on an exciting journey, exploring the core concepts of Python, including variables and simple data types, if statements, dictionaries, loops, functions, and many more. Each session will be packed with hands-on activities, allowing you to apply what you've learned through practical exercises and engaging projects.
+Starting on Khordad 5th, we will embark on an exciting journey, exploring the core concepts of Python, including variables and simple data types, if statements, dictionaries, loops, functions, and many more. Each session will be packed with hands-on activities, allowing you to apply what you've learned through practical exercises and engaging projects.
 </p>
 
 <p style='text-align: justify;'>
