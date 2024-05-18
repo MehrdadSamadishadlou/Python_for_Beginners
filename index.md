@@ -54,5 +54,4 @@ So sit back, relax, and get ready to dive into the exciting world of Python prog
 # Telegram Group
 
 Please join: <a href="https://t.me/+gdvBCxEj4z43MTRk" target="_blank"><button>Telegram</button></a>
-</p>
 
