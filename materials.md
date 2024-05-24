@@ -5,7 +5,7 @@ filename: materials
 --- 
 
   
-# 1. First Session
+# 1st Session
 
 ## An Introduction to Python Programming
 
