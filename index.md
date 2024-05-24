@@ -28,6 +28,11 @@ Suppose you would like any additional details about the course or want to connec
 This course, conducted in collaboration with the Research Development & Coordination Center (RDCC) and Medical Biotechnology Scientific Association of Tabriz University of Medical Sciences, is open for registration. Please follow the link to the RDCC workshops website for more information and to sign up: <a href="https://workshop.tbzmed.ac.ir/fa/" target="_blank"><button>RDCC Workshop</button></a>
 </p>
 
+<p style='text-align: justify;'>
+Additionally, you have the option to view the class video recordings on my YouTube channel. <a href="https://www.youtube.com/@MehrdadSamadishadlou" target="_blank"><button>YouTube</button></a>
+</p>
+
+  
 # About this Webpage
 
 <p style='text-align: justify;'>
