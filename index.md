@@ -29,7 +29,7 @@ This course, conducted in collaboration with the Research Development & Coordina
 </p>
 
 <p style='text-align: justify;'>
-Additionally, you have the option to view the class video recordings on my YouTube channel. <a href="https://www.youtube.com/@MehrdadSamadishadlou" target="_blank"><button>YouTube</button></a>
+Additionally, you have the option to view the class video recordings on my <a href="https://www.youtube.com/@MehrdadSamadishadlou" target="_blank"><button>YouTube</button></a> channel. 
 </p>
 
   
