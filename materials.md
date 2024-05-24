@@ -68,7 +68,7 @@ You can download the code I have written during this session as a pdf file from 
 <a href="https://drive.google.com/file/d/1_UGSOkfAmlK30LZevBZHkaFE_URKISyn/view?usp=drive_link" target="_blank"><button>First Session Codes</button></a>
 
 
-<!-- 
+
 # 2. Second Session
 
 w3schools website can be highly beneficial during your learning process. It provides concise explanations for all the topics we have discussed in class with some examples. You can access the website by clicking on the following link:
@@ -78,12 +78,11 @@ w3schools website can be highly beneficial during your learning process. It prov
 
 ## Session Codes
 
-I have uploaded all the codes I have written in a zip file. Additionally, Mr. Ahmadian's note is available for download.
+I have uploaded all the codes I have written in a zip file.
 
-<a href="https://drive.google.com/file/d/1f09Iv-ZF6X9vcKoAce6wLiUYTAqAtiRk/view?usp=sharing" target="_blank"><button>Second Session Codes</button></a>   <a href="https://drive.google.com/file/d/1r9qTqilTf8NQu0U7xDyvYm8ayN_7HPBY/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a>
+<a href="https://drive.google.com/file/d/1_TP8fKPErqdHThUejAXF5F7M5geooPzu/view?usp=drive_link" target="_blank"><button>Second Session Codes</button></a>
 
-
-
+<!-- 
 # 3. Third Session
 
 ## Session Codes
