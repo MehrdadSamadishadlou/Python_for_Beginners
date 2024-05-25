@@ -83,7 +83,7 @@ I have uploaded all the codes I have written in a zip file.
 <a href="https://drive.google.com/file/d/1_TP8fKPErqdHThUejAXF5F7M5geooPzu/view?usp=drive_link" target="_blank"><button>Second Session Codes</button></a>
 
 
-# 3. Third Session
+# 3rd Session
 
 ## Session Codes
 
