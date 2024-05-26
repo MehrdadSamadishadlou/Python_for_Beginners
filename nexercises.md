@@ -82,8 +82,8 @@ filename: nexercises
         <img id="Hist" src="https://github.com/MehrdadSamadishadlou/Python_for_Beginners/assets/95024166/114a81c4-2d80-4f6f-9d65-982f3fbf635f" width="300" />
       </p>
 
-<!--
-# 3. Third Session
+
+# 3rd Session
 
 > **IMPORTANT**  
 > The purpose of the exercises that require you to determine the output of a code is to encourage you to execute the code in your mind rather than relying on the Python interpreter.
@@ -137,10 +137,10 @@ filename: nexercises
    >= 12     D
    < 12     F
    ```
-
+<!--
 # 4. Fourth Session
 
-1. Write a program that accepts an input number, n, calculates its factorial and displays the result.
+1. Write a program that accepts an input number, n, calculates its factorial, and displays the result.
 
    example input:
    ```
