@@ -137,8 +137,8 @@ filename: nexercises
    >= 12     D
    < 12     F
    ```
-<!--
-# 4. Fourth Session
+
+# 4th Session
 
 1. Write a program that accepts an input number, n, calculates its factorial, and displays the result.
 
@@ -243,7 +243,7 @@ filename: nexercises
    ```
    672 24
    ```
-
+<!--
 # Exercise Sessions
 
 All exercises are available using the following link.
