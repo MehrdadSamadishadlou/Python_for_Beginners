@@ -105,10 +105,9 @@ All codes were uploaded as a zip file.
 
 ## Session Codes
 
+All codes were uploaded as a zip file.
+
 <a href="https://drive.google.com/file/d/1_XOIWo-rsur4W8Vr-s-AkZB-E-B3axr5/view?usp=drive_link" target="_blank"><button>Exercise Session Codes</button></a>
-
-
-<a href="https://drive.google.com/file/d/1zJZ2Gj47ivufe5sB5S240FIOaepBWXIH/view?usp=sharing" target="_blank"><button>Exercise Sessions 3 and 4 Codes</button></a> <a href="https://drive.google.com/file/d/1uFwkAbNC3U9XEmuSaCGz5ZD0ggGGoUIQ/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
 
 <!-- 
 # 5. Fifth Session
