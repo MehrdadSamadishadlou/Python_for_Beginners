@@ -4,9 +4,8 @@ layout: template
 filename: projects
 --- 
 
-Coming Soon!
 
-<!--
+
 # The First Project
 
 Write a program that can play the following game with a computer.
@@ -30,6 +29,7 @@ The printed number creates three possible scenarios:
 
 In summary, the user selects a secret number. The program tries to guess it. Based on the user's input after each guess, the program adjusts its next guess to be a smaller or larger number, until eventually guessing correctly.
 
+<!--
 
 > **IMPORTANT**  
 > Final project deadline: Shahrivar 31st at 11:59 p.m.
