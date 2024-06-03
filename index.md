@@ -55,8 +55,8 @@ Finally, on <a href="https://mehrdadsamadishadlou.github.io/Python_for_Beginners
 So sit back, relax, and get ready to dive into the exciting world of Python programming. By the end of this course, you'll have the skills and confidence to tackle a wide range of programming challenges and build your own Python projects from scratch. Let's get started!
 </p>
 
-
+<!--
 # Telegram Group
 
 Please join: <a href="https://t.me/+gdvBCxEj4z43MTRk" target="_blank"><button>Telegram</button></a>
-
+-->
