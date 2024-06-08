@@ -116,7 +116,7 @@ All codes were uploaded as a zip file.
 
 All codes were uploaded as a zip file.
 
-<a href="https://drive.google.com/file/d/1_XbtaWdG72lyclOQBaUJEkDRLgQ94raA/view?usp=drive_link" target="_blank"><button>Fifth Session Codes</button></a> 
+<a href="https://drive.google.com/file/d/1_XbtaWdG72lyclOQBaUJEkDRLgQ94raA/view?usp=drive_link" target="_blank"><button>Sixth Session Codes</button></a> 
 
 <!--
 # 6. Sixth Session
