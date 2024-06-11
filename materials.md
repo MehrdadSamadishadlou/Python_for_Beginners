@@ -118,16 +118,16 @@ All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1_XbtaWdG72lyclOQBaUJEkDRLgQ94raA/view?usp=drive_link" target="_blank"><button>Sixth Session Codes</button></a> 
 
-<!--
-# 6. Sixth Session
+
+# 7th Session
 
 ## Session Codes
 
 All codes were uploaded as a zip file.
 
-<a href="https://drive.google.com/file/d/1n7lfKIqNLnktdwQqMo1A5PJdsIP1ZXws/view?usp=sharing" target="_blank"><button>Sixth Session Codes</button></a> <a href="https://drive.google.com/file/d/1Thfg3JhZfpzD5c5ZkHxlImDbLJ6JswKn/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
+<a href="https://drive.google.com/file/d/1_Y4OF349PpY0Ic3HsDi_RAweSynuv7Zj/view?usp=drive_link" target="_blank"><button>Seventh Session Codes</button></a>
 
-
+<!--
 # Exercise Session 5
 
 ## Session Codes
