@@ -131,7 +131,33 @@ All codes were uploaded as a zip file.
 
 # 8th Session
 
-Example 
+An example of input and output for the exercise mentioned in the class.
+
+   example input:
+   ```
+   15
+   alice@example.com
+   bob@example.com
+   alice@sample.net
+   dave@demo.com
+   eve@example.com
+   frank@sample.net
+   grace@demo.com
+   bob@example.com
+   alice@demo.com
+   eve@sample.net
+   frank@demo.com
+   dave@example.com
+   alice@example.com
+   nancy@sample.net
+   grace@sample.net
+   ```
+
+   example output:
+   ```
+   Bad!
+   ```
+ 
 
 <!--
 ## Session Codes
