@@ -245,7 +245,7 @@ filename: nexercises
    ```
 
 
-# Exercise Sessions
+# 5th Session: Exercise 
 
 Extra exercises are available using the following link.
 
@@ -253,7 +253,7 @@ Extra exercises are available using the following link.
 
 
 
-# 7th Sessions: Data Structures and Methods
+# 6th & 7th Sessions: Data Structures and Methods
 
 1. Write a program that reads 10 names from input and prints their standardized versions in alphabetical order as output. A standardized name is one that begins with a capital letter and the rest of the letters are lowercase.
 
