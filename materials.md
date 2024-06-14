@@ -155,7 +155,9 @@ An example of input and output for the exercise mentioned in the class.
 
    example output:
    ```
-   Bad!
+   The highest number of emails is received from Alice, 
+   which was 4 times, and the most repeated domain is example.com 
+   with 6 received emails.
    ```
  
 
