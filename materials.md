@@ -161,14 +161,14 @@ An example of input and output for the exercise mentioned in the class.
    ```
  
 
-<!--
+
 ## Session Codes
 
 All codes were uploaded as a zip file.
 
-<a href="https://drive.google.com/file/d/1t5xjniHzSux8ZgbPyJIwc2VdJCrrDsz1/view?usp=sharing" target="_blank"><button>Seventh Session Codes</button></a> <a href="https://drive.google.com/file/d/1oracER6mBjMgRgY-YUOAfQQdAgWzKKNV/view?usp=sharing" target="_blank"><button>Mr. Ahmadian's notes</button></a> 
+<a href="https://drive.google.com/file/d/1_Y4QNurtxodsRfuh-gEbv8JP7uwIA26W/view?usp=drive_link" target="_blank"><button>Eighth Session Codes</button></a>
 
-
+<!--
 
 # 8,9. Eighth and Ninth Sessions:
 
