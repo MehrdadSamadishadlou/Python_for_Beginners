@@ -31,7 +31,7 @@ In summary, the user selects a secret number. The program tries to guess it. Bas
 
 
 
-# Second Project: Student Grade Analysis
+# Thw Second Project: Student Grade Analysis
 
 Overview:
 This program analyzes student grade data from a CSV file containing 20 students' grades across 8 courses. The program allows the user to explore and output the data in various ways through a command line interface. 
