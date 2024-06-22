@@ -29,12 +29,9 @@ The printed number creates three possible scenarios:
 
 In summary, the user selects a secret number. The program tries to guess it. Based on the user's input after each guess, the program adjusts its next guess to be a smaller or larger number, until eventually guessing correctly.
 
-<!--
 
-> **IMPORTANT**  
-> Final project deadline: Shahrivar 31st at 11:59 p.m.
 
-# Final Project: Student Grade Analysis
+# Second Project: Student Grade Analysis
 
 Overview:
 This program analyzes student grade data from a CSV file containing 20 students' grades across 8 courses. The program allows the user to explore and output the data in various ways through a command line interface. 
@@ -92,4 +89,3 @@ Other Notes:
 
 **You can download the grades file using the following link:**
 <a href="https://drive.google.com/file/d/18g2BOMCJ5X-sVHnOBTnHRgu_WI5mgO3o/view?usp=sharing" target="_blank"><button>Student's Grades</button></a>
--->
