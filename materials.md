@@ -170,7 +170,7 @@ All codes were uploaded as a zip file.
 
 
 
-# 9th Sessions:
+# 9th Sessions
 
 You can download the **word** dataset using the following link: 
 
