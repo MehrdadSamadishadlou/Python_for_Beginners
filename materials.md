@@ -168,10 +168,15 @@ All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1_Y4QNurtxodsRfuh-gEbv8JP7uwIA26W/view?usp=drive_link" target="_blank"><button>Eighth Session Codes</button></a>
 
+
+
+# 9th Sessions:
+
+You can download the **word** dataset using the following link: 
+
+<a href="https://drive.google.com/file/d/1_YvtQqg8oi-SC2kOtli__cZH6yAw6ZHd/view?usp=drive_link" target="_blank"><button>word.csv</button></a>
+
 <!--
-
-# 8,9. Eighth and Ninth Sessions:
-
 ## Session Codes
 
 All codes were uploaded as a zip file.
