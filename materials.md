@@ -182,3 +182,49 @@ You can download the **word** dataset using the following link:
 All codes were uploaded as a zip file.
 
 <a href="https://drive.google.com/file/d/1_ZLMp1aMaBjKaI_S7jOJER1jwphfdW4T/view?usp=drive_link" target="_blank"><button>Ninth Sessions Codes</button></a>
+
+# 10th Session
+
+Some libraries are needed for the project we are covering during this session. Please install them on your Python using pip:
+
+**pandas, numpy, matplotlib, seaborn, chembl_webresource_client, rdkit**
+
+The following function will be used during the session:
+
+```
+def lipinski(smiles, verbose=False):
+
+    moldata= []
+    for elem in smiles:
+        mol=Chem.MolFromSmiles(elem) 
+        moldata.append(mol)
+       
+    baseData= np.arange(1,1)
+    i=0  
+    for mol in moldata:        
+       
+        desc_MolWt = Descriptors.MolWt(mol)
+        desc_MolLogP = Descriptors.MolLogP(mol)
+        desc_NumHDonors = Lipinski.NumHDonors(mol)
+        desc_NumHAcceptors = Lipinski.NumHAcceptors(mol)
+           
+        row = np.array([desc_MolWt,
+                        desc_MolLogP,
+                        desc_NumHDonors,
+                        desc_NumHAcceptors])   
+    
+        if(i==0):
+            baseData=row
+        else:
+            baseData=np.vstack([baseData, row])
+        i=i+1      
+    
+    columnNames=["MW","LogP","NumHDonors","NumHAcceptors"]   
+    descriptors = pd.DataFrame(data=baseData,columns=columnNames)
+    
+    return descriptors
+```
+
+The following tables will be generated during the session. They are available here in case you missed a part of the class:
+
+<a href="https://drive.google.com/file/d/1_ZOrsnfgPKaKzAcIkry9UIWxwF65bq38/view?usp=drive_link" target="_blank"><button>Bioactivity Data</button></a>
